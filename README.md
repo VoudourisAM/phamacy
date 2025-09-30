@@ -14,3 +14,5 @@
 - Extract data from DB
 - Connection with DB (XAMPP)
 - Print data
+- <img width="1919" height="972" alt="Screenshot 2025-09-30 155907" src="https://github.com/user-attachments/assets/da0835e4-4644-486a-b0cc-739249e043c9" />
+
